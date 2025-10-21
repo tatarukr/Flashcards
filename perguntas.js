@@ -41,13 +41,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Filosofia',
+    'Filosofia'
     'Que filósofo é conhecido pela alegoria filosófica "Mito da Caverna"?'
     'Platão'
 )
 
 criaCartao(
-    'Física',
+    'Física'
     'Qual a primeira lei de Newton'
     'Lei da Inércia'
 )
@@ -65,7 +65,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Biologia 1',
+    'Biologia 1'
     'Qual é a segunda lei de Mendel?'
     'A segunda lei de Mendel é a Lei da Segregação Independente'
 )
